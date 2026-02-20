@@ -4,8 +4,17 @@
 
   
 
+<h1 align="center">SOC Analyst Portfolio</h1>
+
 <p align="center">
-  <img width="700" src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif">
+  <img src="images/soc-analyst.png" alt="SOC Analyst Banner" width="600"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Role-SOC_Analyst-0A66C2?style=for-the-badge&logo=hackthebox&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Focus-Incident_Response-red?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/SIEM-Splunk-orange?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Blue_Team-Security-blue?style=for-the-badge"/>
 </p>
 
 ---
@@ -75,7 +84,7 @@ To join a Security Operations Center (SOC) team where I can apply my monitoring 
 ##  Connect With Me  
 
 <p align="center">
-<a href="PUT_YOUR_LINKEDIN_LINK_HERE"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="[PUT_YOUR_LINKEDIN_LINK_HERE](http://www.linkedin.com/in/%20ahmed-elsayed-959448350)"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://github.com/YOUR_USERNAME"><img src="https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
 
