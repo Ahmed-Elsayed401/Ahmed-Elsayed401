@@ -1,5 +1,5 @@
 ## Hi,I am Ahmed Elsayed 👋
-## I am a SOC Analyst student | Blue Team Enthusiast 🛡️
+## I am a SOC Analyst student | Blue Team Member 🛡️
 
 
   
