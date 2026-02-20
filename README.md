@@ -6,9 +6,7 @@
 
 <h1 align="center">SOC Analyst Portfolio</h1>
 
-<p align="center">
-  <img src="images/soc-analyst.png" alt="SOC Analyst Banner" width="600"/>
-</p>
+
 
 <p align="center">
   <img src="https://img.shields.io/badge/Role-SOC_Analyst-0A66C2?style=for-the-badge&logo=hackthebox&logoColor=white"/>
