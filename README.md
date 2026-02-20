@@ -70,7 +70,7 @@ I am highly detail-oriented, analytical, and committed to building a strong foun
 
 - Advanced log correlation techniques  
 - Attack pattern recognition  
-- MITRE ATT&CK mapping fundamentals  
+- MITRE ATTACK mapping fundamentals  
 - SOC alert prioritization strategies  
 
 ---
