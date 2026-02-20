@@ -1,37 +1,81 @@
 ## Hi,I am Ahmed Elsayed 👋
-## I am a SOC Analyst student 🛡️
+## I am a SOC Analyst student | Blue Team Enthusiast 🛡️
+
+
+  
 
 <p align="center">
- <img  width="800" height="400" src="https://github.com/Terabyte17/Terabyte17/blob/master/social/yashs.gif">
-</p>
-<h2 align="center">Hello there! My name is Yash Sahijwani. 👋🤓</h2>
-<p align="center">I'm currently a student pursuing my Bachelor of Technology in Electronics Engineering from IIT (BHU), Varanasi :student:. I'm passionate about areas of machine learning like deep learning and reinforcement learning:man_technologist:. You can also find me interested in robotics :robot: and how we can use deep learning to automate these robots. I've started exploring the field of electronics as well ✨ and hope to contribute to that field as well. 
+  <img width="700" src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif">
 </p>
 
-<p align="center">When I'm not developing and coding, you can find me watching Netflix, Sports or listening to music. Playing football :soccer: was also on that list, but quarantine has removed that for now 😢. Memes are something that are appreciated very much 😂. </p>
+---
 
-<p align="center"><a href="https://twitter.com/terabyte_17"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25></a> <a href="https://www.linkedin.com/in/yash-sahijwani-b36aa3149/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> <a href="https://www.instagram.com/yash_sahijwani/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=25></a> 
-</p>
+## 👨‍💻 About Me  
 
-<p align=center>
-  <a href="https://github.com/Terabyte17">
-    <img src="https://badges.pufler.dev/visits/Terabyte17/Terabyte17?style=flat-square&color=black&logo=github">
-  </a>
-  <a href="https://github.com/Terabyte17?tab=repositories">
-    <img src="https://badges.pufler.dev/repos/Terabyte17?style=flat-square&color=black&logo=github">
-  </a>
-</p>
+I am a third-year Cybersecurity student focused on **Security Operations (SOC)** and defensive security practices.
+
+I specialize in **security monitoring, log analysis, alert investigation, and incident response fundamentals**.  
+Through hands-on lab environments, I continuously develop practical skills in detecting suspicious behavior, validating alerts, and following structured investigation workflows.
+
+I am highly detail-oriented, analytical, and committed to building a strong foundation in real-world SOC operations.
+
+---
+
+## 🔎 Core Competencies  
+
+- SIEM Monitoring & Log Ingestion  
+- Windows Security Event Log Analysis  
+- Authentication & Brute-Force Detection  
+- Alert Validation & False Positive Analysis  
+- Event Correlation & Investigation Workflow  
+- Incident Triage & Documentation  
+
+---
+
+## 🧪 Practical SOC Experience  
+
+🔹 Designed and deployed a **SOC Lab using Wazuh SIEM**  
+🔹 Integrated Windows 10 endpoint with centralized log monitoring  
+🔹 Analyzed authentication-related Event Logs  
+🔹 Generated security alerts based on failed login attempts (brute-force behavior)  
+🔹 Performed alert validation and structured investigation  
+🔹 Documented findings following Detection → Analysis → Documentation methodology  
+
+---
+
+## 🛠️ Tools & Technologies  
+
 <p align="center">
-<a href="https://github.com/Terabyte17"><img src="https://img.shields.io/github/followers/Terabyte17?style=social"></a>
-</p>
-<p align="center">
-<img src="https://img.shields.io/badge/Robotics-brown"> <img src="https://img.shields.io/badge/Machine Learning-green"> <img src="https://img.shields.io/badge/Deep Learning-red"> <img src="https://img.shields.io/badge/Computer Vision-magenta"> <img src="https://img.shields.io/badge/Natural Language Processing-yellow"> <img src="https://img.shields.io/badge/Reinforcement Learning-blue"> 
-</p>
-<hr>
-<p align="center">
-<img src="https://img.shields.io/badge/TensorFlow%20-%23FF6F00.svg?&style=for-the-badge&logo=TensorFlow&logoColor=white" /> <img src="https://img.shields.io/badge/Keras%20-%23D00000.svg?&style=for-the-badge&logo=Keras&logoColor=white"/> <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> <img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white"/> <img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Wazuh-0052CC?style=for-the-badge&logo=elastic&logoColor=white"/>
+<img src="https://img.shields.io/badge/Windows%20Event%20Logs-blue?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Kali%20Linux-black?style=for-the-badge&logo=kalilinux&logoColor=white"/>
+<img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white"/>
+<img src="https://img.shields.io/badge/SIEM-4B0082?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Incident%20Response-red?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Blue%20Team-0A66C2?style=for-the-badge"/>
 </p>
 
-<p align=center>  
-  <img align=center src="https://github-readme-stats.vercel.app/api?username=Terabyte17&show_icons=true&theme=radical">
+---
+
+## 📈 Currently Improving  
+
+- Advanced log correlation techniques  
+- Attack pattern recognition  
+- MITRE ATT&CK mapping fundamentals  
+- SOC alert prioritization strategies  
+
+---
+
+## 🎯 Career Objective  
+
+To join a Security Operations Center (SOC) team where I can apply my monitoring and investigation skills, contribute to threat detection efforts, and grow into a highly capable SOC Analyst.
+
+---
+
+## 📫 Connect With Me  
+
+<p align="center">
+<a href="PUT_YOUR_LINKEDIN_LINK_HERE"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://github.com/YOUR_USERNAME"><img src="https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
+
