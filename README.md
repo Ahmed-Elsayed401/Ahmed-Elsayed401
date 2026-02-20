@@ -50,6 +50,16 @@ I am highly detail-oriented, analytical, and committed to building a strong foun
 
 ---
 
+##  SOC Home Lab – Wazuh SIEM
+
+As part of my SOC training, I built a home lab using Kali Linux as the Wazuh SIEM server and Windows 10 as the monitored endpoint.
+After configuring the Wazuh manager and deploying the agent on Windows, I validated log ingestion and began monitoring Windows Security Event Logs, focusing on authentication-related events such as Event ID 4625 (failed logon attempts).
+To test detection capabilities, I simulated brute-force login attempts on the Windows machine. The generated events were successfully collected and correlated by Wazuh, which triggered security alerts visible on the dashboard.
+I then performed structured alert validation and investigation, reviewing event details, login patterns, and source activity while documenting findings according to SOC workflow practices (Detection → Analysis → Documentation).
+This lab strengthened my practical skills in SIEM deployment, log analysis, authentication monitoring, and basic incident response procedures within a controlled SOC environment.
+
+---
+
 ##  Tools & Technologies  
 
 <p align="center">
