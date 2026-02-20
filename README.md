@@ -1,4 +1,5 @@
-## Hi there 👋
+## Hi,I am Ahmed Elsayed 👋
+## I am a SOC Analyst student 🛡️
 
 <!--
 **Ahmed-Elsayed401/Ahmed-Elsayed401** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
