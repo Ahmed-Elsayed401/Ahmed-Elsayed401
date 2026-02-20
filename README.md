@@ -10,7 +10,7 @@
 
 ---
 
-## 👨‍💻 About Me  
+##  About Me  
 
 I am a third-year Cybersecurity student focused on **Security Operations (SOC)** and defensive security practices.
 
@@ -21,7 +21,7 @@ I am highly detail-oriented, analytical, and committed to building a strong foun
 
 ---
 
-## 🔎 Core Competencies  
+##  Core Competencies  
 
 - SIEM Monitoring & Log Ingestion  
 - Windows Security Event Log Analysis  
@@ -32,7 +32,7 @@ I am highly detail-oriented, analytical, and committed to building a strong foun
 
 ---
 
-## 🧪 Practical SOC Experience  
+##  Practical SOC Experience  
 
 🔹 Designed and deployed a **SOC Lab using Wazuh SIEM**  
 🔹 Integrated Windows 10 endpoint with centralized log monitoring  
@@ -43,7 +43,7 @@ I am highly detail-oriented, analytical, and committed to building a strong foun
 
 ---
 
-## 🛠️ Tools & Technologies  
+##  Tools & Technologies  
 
 <p align="center">
 <img src="https://img.shields.io/badge/Wazuh-0052CC?style=for-the-badge&logo=elastic&logoColor=white"/>
@@ -57,7 +57,7 @@ I am highly detail-oriented, analytical, and committed to building a strong foun
 
 ---
 
-## 📈 Currently Improving  
+##  Currently Improving  
 
 - Advanced log correlation techniques  
 - Attack pattern recognition  
@@ -66,13 +66,13 @@ I am highly detail-oriented, analytical, and committed to building a strong foun
 
 ---
 
-## 🎯 Career Objective  
+##  Career Objective  
 
 To join a Security Operations Center (SOC) team where I can apply my monitoring and investigation skills, contribute to threat detection efforts, and grow into a highly capable SOC Analyst.
 
 ---
 
-## 📫 Connect With Me  
+##  Connect With Me  
 
 <p align="center">
 <a href="PUT_YOUR_LINKEDIN_LINK_HERE"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
