@@ -4,7 +4,7 @@
 
   
 
-<h1 align="center">SOC Analyst Portfolio</h1>
+<h1 align="center">SOC Analyst Student</h1>
 
 
 
